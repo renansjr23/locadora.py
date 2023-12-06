@@ -136,4 +136,3 @@ def sair_ou_voltar():
     return
 #========================Execução=do=codigo=====================================================
 tela_principal()
-
